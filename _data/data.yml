@@ -75,12 +75,10 @@ publications:
 projects:
   - title: 
     link: 
-    details: |
-    
-
+    details:
   - title: 
     link: 
-    details: |
+    details:
       
 
 # Volunteering
@@ -88,5 +86,4 @@ volunteering:
   - time:
     role: 
     company:
-    details: |
-    
+    details:
