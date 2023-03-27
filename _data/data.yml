@@ -6,7 +6,7 @@ fork: true
 contact:
   email: klue980@gmail.com
   github: kluegit
-  linkedin: in/seongho-kim-092671263/
+  linkedin: seongho-kim-092671263
   phone: 
   gitlab: 
   twitter: 
@@ -17,12 +17,12 @@ languages:
   - idiom: 
 
 education:
-  - degree: BSc in Electrical and Electronic Engineering
+  - degree: BEng in Electrical and Electronic
     time: 2019 - current
     university: Yonsei University
 
   - degree: High School
-    time: 2014-2017
+    time: 2014 - 2017
     university: Hanil High School
 
 skills:
