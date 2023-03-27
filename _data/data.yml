@@ -7,14 +7,14 @@ contact:
   email: klue980@gmail.com
   github: kluegit
   linkedin: seongho-kim-092671263
-  naver: klue__
+  naver: 
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
   - idiom: Korean
+  - idiom: English
   - idiom: 
 
 education:
@@ -27,78 +27,66 @@ education:
     university: Hanil High School
 
 skills:
-  - category: Backend
+  - category: Digital Circuit
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Verilog
+      - Vivado, Vitis
+  - category: Analog Circuit
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Cadence Virtuoso
+      - PSpice, Eagle
+  - category: Programming
     skill:
-      - Docker
-      - Kubernetes 
+      - C, C++
+      - Python, Dart 
 
 # Profile
 profile: |
   Lorem 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Circuit Designer
+    time: 2023.01 - Present
+    company: Yonsei University Circuit and System Lab.
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Intern for UWB Tx
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Cadence Virtuoso, PSpice
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: 
+    time: 2020.10 - 2022.07
+    company: Korea AirForce 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+       - classified -
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Python, VBA, Dart
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: 
+    link: 
+    authors: 
+    conference: 
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: 
+    link: 
+    authors: 
+    conference: 
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: 
+    link: 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+    
 
-  - title: Cool Project 
-    link: #
+  - title: 
+    link: 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time:
+    role: 
+    company:
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    
