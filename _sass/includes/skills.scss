@@ -1,14 +1,16 @@
 .skills {
     margin-bottom: 20px;
-    .head { 
+    .title { 
         @include sub-header;
     }
-    .title { 
-        margin-top: 20px;
-        @include body-text;
-        font-weight: bold;
-    }
-    .skill {
-        @include body-text;
+    .skills-item {
+        margin-bottom: 20px;
+        .category {
+            @include body-text;
+            font-weight: bold;
+        }
+        .skill {
+            @include body-text;
+        }
     }
 }
