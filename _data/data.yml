@@ -18,7 +18,7 @@ languages:
   - idiom: 
 
 education:
-  - degree: BEng in Electrical and Electronic
+  - degree: BEng in Electrical & Electronic
     time: 2019 - current
     university: Yonsei University
 
@@ -38,7 +38,7 @@ skills:
   - category: Programming
     skill:
       - C, C++
-      - Python, Dart 
+      - Python, Dart, Flutter
 
 # Profile
 profile: |
