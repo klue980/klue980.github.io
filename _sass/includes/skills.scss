@@ -1,6 +1,9 @@
 .skills {
     margin-bottom: 20px;
-    .title {
+    .head { 
+        @include sub-header;
+    }
+    .title { 
         margin-top: 20px;
         @include body-text;
         font-weight: bold;
