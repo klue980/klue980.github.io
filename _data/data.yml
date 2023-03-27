@@ -44,7 +44,7 @@ profile: |
   I'm an undergraudate at Yonsei University. My major is Electrical and Electronic Engineering. 
   I'm in 1st session of my 3rd year.
   I'm interested in AI accelator and processor in memory(PIM).
-  
+
 # Experience
 experience:
   - role: Circuit Designer
@@ -75,9 +75,10 @@ awards:
       Also they get the certification of the track after complete the course.
 
   - role: Merit Based Scholarship
-    time: 2022.10
+    time: "2022.10" 
     company: Yonsei University
-    details: Scolarship for academic excellence in 2022 2nd semester
+    details: |
+    Scolarship for academic excellence in 2022 2nd semester
       
 
 # publications:
