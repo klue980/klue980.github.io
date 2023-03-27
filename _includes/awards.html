@@ -1,4 +1,4 @@
-{% assign award = site.data.data.awards %}
+{% assign awards = site.data.data.awards %}
 {% if awards %}
 <section class="awards">
     <h2 class="title">Awards</h2>
@@ -9,11 +9,10 @@
             </div>
             <div class="company">
                 {{awd.company}} 
-                <span class="time">{{exp.time}}</span>
+                <span class="time">{{awd.time}}</span>
             </div> 
-            <div class="details">{{exp.details}}</div>
+            <div class="details">{{awd.details}}</div>
         </div>
-       
     {% endfor %}
 </section>
 {% endif %}
