@@ -1,8 +1,10 @@
 .awards {
+    margin-bottom: 20px;
     .title {
         @include header;
     }
     .awards-item {
+        margin-bottom: 20px;
         .role {
             @include sub-header;
         }
