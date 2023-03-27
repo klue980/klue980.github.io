@@ -1,29 +1,29 @@
-name: John Doe
+name: Kim Seong Ho
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: klue980@gmail.com
+  github: kluegit
+  linkedin: in/seongho-kim-092671263/
   phone: 
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Korean
+  - idiom: 
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: BSc in Electrical and Electronic Engineering
+    time: 2019 - current
+    university: Yonsei University
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: High School
+    time: 2014-2017
+    university: Hanil High School
 
 skills:
   - category: Backend
@@ -41,12 +41,7 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
-
+  Lorem 
 # Experience
 experience:
   - role: Software Engineer
