@@ -55,5 +55,14 @@
             </a>
         </div>
     {% endif %}
+
+    {% if contact.naver %}
+        <div class="contact-item">
+            <i data-feather="naver"></i>
+            <a href="https://blog.naver.com/{{contact.naver}}">
+                {{contact.naver}}
+            </a>
+        </div>
+    {% endif %}
 </section>
 {% endif %}
