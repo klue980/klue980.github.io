@@ -49,41 +49,60 @@ experience:
     time: 2023.01 - Present
     company: Yonsei University Circuit and System Lab.
     details: |
-      Intern for UWB Tx
+      Research Intern for 6 months. 
     technologies_used: | 
       Cadence Virtuoso, PSpice
   
   - role: Mandatory Military Service(Information Systems Management)
     time: 2020.10 - 2022.07
-    company: Korea Air Force 
+    company: Korea Air Force Information Systems Management Group
     details: |
-       - classified -
+       Office Automation, Information System Management
     technologies_used: | 
       Python, VBA, Dart
 
-publications:
-  - title: 
-    link: 
-    authors: 
-    conference: 
+#awards
+awards:
+  - role: Yonsei University Semiconductor
+    time: 2023.03 ~ 2025.02
+    company: Yonsei University School of Electrical and Electronic Engineering
+    details: |
+      scholarship for 2 years with certification
 
-  - title: 
-    link: 
-    authors: 
-    conference: 
+  - role: Study 
+    time: 2022.10
+    company: Yonsei University
+    details: |
+      study
 
-projects:
-  - title: 
-    link: 
-    details:
-  - title: 
-    link: 
-    details:
-      
+# publications:
+#   - title: Random title of paper. An interesting one.
+#     link: "#"
+#     authors: John E. Doe
+#     conference: Some conference, 2016
 
-# Volunteering
-volunteering:
-  - time:
-    role: 
-    company:
-    details:
+#   - title: Second title of paper. An interesting one too.
+#     link: "#"
+#     authors: John E. Doe
+#     conference: Some conference again, 2018
+
+# projects:
+#   - title: Cool Project 
+#     link: #
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua.
+#   - title: Cool Project 
+#     link: #
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua.
+# # Volunteering
+# volunteering:
+#   - time: 2020-Present
+#     role: PR Manager
+#     company: Some random organization
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+#       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
