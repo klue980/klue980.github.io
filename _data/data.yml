@@ -36,13 +36,15 @@ skills:
       - PSpice, Eagle
   - category: Programming
     skill:
-      - C, C++
-      - Python, Dart, Flutter
+      - C, Python
+      - Dart, Flutter
 
 # Profile
 profile: |
-  I'm an undergraudate an Yonsei University. My major is Electrical and Electronic Engineering. I'm in 1st session of my 3rd year.
-  I'm a Digital Circuit Designer. I'm interested in AI accelator and processor in memory(PIM).
+  I'm an undergraudate at Yonsei University. My major is Electrical and Electronic Engineering. 
+  I'm in 1st session of my 3rd year.
+  I'm interested in AI accelator and processor in memory(PIM).
+  
 # Experience
 experience:
   - role: Circuit Designer
@@ -63,17 +65,20 @@ experience:
 
 #awards
 awards:
-  - role: Yonsei University Semiconductor
+  - role: Yonsei University Semiconductor Specialist Track
     time: 2023.03 ~ 2025.02
     company: Yonsei University School of Electrical and Electronic Engineering
     details: |
-      scholarship for 2 years with certification
+      Yonsei University Semiconductor Specialist Track was created for 
+      the purpose of supoorting the future semiconductor specialists.
+      Selected students get scholarship for 2 years.
+      Also they get the certification of the track after complete the course.
 
-  - role: Study 
+  - role: Merit Based Scholarship
     time: 2022.10
     company: Yonsei University
-    details: |
-      study
+    details: Scolarship for academic excellence in 2022 2nd semester
+      
 
 # publications:
 #   - title: Random title of paper. An interesting one.
