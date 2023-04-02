@@ -50,11 +50,11 @@ experience:
   - role: Circuit Designer
     time: 2022.12 - Present
     company: Yonsei University Circuit and System Lab.
-    details: >
+    details: > \n
       Research Intern for 6 months (Analog & Digital Circuit Design)
       Topic : Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver \n
+      \n
       line break?
-      |- line break?
     technologies_used: | 
       Cadence Virtuoso, PSpice
   
