@@ -50,17 +50,17 @@ experience:
   - role: Circuit Designer
     time: 2022.12 - Present
     company: Yonsei University Circuit and System Lab
-    technologies_used: Cadence Virtuoso, PSpice
     details:
       - Research Intern for 6 months (Analog & Digital Circuit Design)
       - Topic ":" Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver
+    technologies_used: Cadence Virtuoso, PSpice
   
   - role: Mandatory Military Service (Information Systems Management)
     time: 2020.10 - 2022.07
     company: Korea Air Force Information Systems Management Group
-    technologies_used: Python, VBA, Dart, Flutter, HTML
     details: 
       - Office Automation, Information System Management
+    technologies_used: Python, VBA, Dart, Flutter, HTML
 
 #awards
 awards:
