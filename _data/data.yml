@@ -51,14 +51,15 @@ experience:
     time: 2022.12 - Present
     company: Yonsei University Circuit and System Lab.
     details: |
-      Research Intern for 6 months (Analog & Digital Circuit Design)
+      Research Intern for 6 months (Analog & Digital Circuit Design) 
+      |
       Topic : Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver \n
       line break?
       |- line break?
     technologies_used: | 
       Cadence Virtuoso, PSpice
   
-  - role: Mandatory Military Service(Information Systems Management)
+  - role: Mandatory Military Service (Information Systems Management)
     time: 2020.10 - 2022.07
     company: Korea Air Force Information Systems Management Group
     details: |
@@ -73,9 +74,8 @@ awards:
     company: Yonsei University School of Electrical and Electronic Engineering
     details: |
       Yonsei University Semiconductor Specialist Track was created for 
-      the purpose of supoorting the future semiconductor specialists.
-      Selected students get scholarship for 2 years.
-      Also they get the certification of the track after complete the course.
+      the purpose of supporting the future semiconductor specialists.
+      The selected students will receive scholarship for 2 years and get the certification of the track after complete the course.
 
   - role: Merit Based Scholarship
     time: "2022.10"
