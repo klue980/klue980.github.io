@@ -52,8 +52,9 @@ experience:
     company: Yonsei University Circuit and System Lab.
     details: |
       Research Intern for 6 months (Analog & Digital Circuit Design)
-      Topic : Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver
-      -
+      Topic : Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver \n
+      line break?
+      |- line break?
     technologies_used: | 
       Cadence Virtuoso, PSpice
   
