@@ -41,17 +41,19 @@ skills:
 
 # Profile
 profile: |
-  I'm an undergraudate at Yonsei University. My major is Electrical and Electronic Engineering. 
-  I'm in 1st session of my 3rd year.
-  I'm interested in AI accelator and processor in memory(PIM).
+  I'm an undergraudate at Yonsei University in Electrical and Electronic Engineering. 
+  I'm in the 1st session of my third year.
+  I'm interested in AI accelator and process in memory(PIM).
 
 # Experience
 experience:
   - role: Circuit Designer
-    time: 2023.01 - Present
+    time: 2022.12 - Present
     company: Yonsei University Circuit and System Lab.
     details: |
-      Research Intern for 6 months. 
+      Research Intern for 6 months (Analog & Digital Circuit Design)
+      Topic : Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver
+      -
     technologies_used: | 
       Cadence Virtuoso, PSpice
   
