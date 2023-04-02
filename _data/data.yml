@@ -81,17 +81,17 @@ awards:
 
 # publications
 publications:
-  - title: Lab Cadence Study example
+  - title: Lab Cadence Study
     link: "https://drive.google.com/file/d/1W3gCWfo0rEOInR_aAAA7mEC5qPPFG1cq/view?usp=share_link"
     authors: Kim Seong Ho
     conference: 
 
-  - title: Lab PSpice Study example
+  - title: Lab PSpice Study
     link: "https://drive.google.com/file/d/1Nz4H9hVg5_AyMuSwbdTCiL7pXchGIf67/view?usp=share_link"
     authors: Kim Seong Ho
     conference: 
 
-  - title: Lab Verilog Study example
+  - title: Verilog Study
     link: "https://drive.google.com/file/d/1TXPHxJPAxLmtEqyErlnltdIEGFDj8Cyi/view?usp=share_link"
     authors: Kim Seong Ho
     conference: 
