@@ -81,13 +81,18 @@ awards:
 
 # publications
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "https://drive.google.com/file/d/1AlWuMd6axnzcasZhDPrQPydByQk9P0C2/view?usp=share_link"
+  - title: Lab Cadence Study example
+    link: "https://drive.google.com/file/d/1W3gCWfo0rEOInR_aAAA7mEC5qPPFG1cq/view?usp=share_link"
     authors: Kim Seong Ho
     conference: 
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
+  - title: Lab PSpice Study example
+    link: "https://drive.google.com/file/d/1Nz4H9hVg5_AyMuSwbdTCiL7pXchGIf67/view?usp=share_link"
+    authors: Kim Seong Ho
+    conference: 
+
+  - title: Lab Verilog Study example
+    link: "https://drive.google.com/file/d/1TXPHxJPAxLmtEqyErlnltdIEGFDj8Cyi/view?usp=share_link"
     authors: Kim Seong Ho
     conference: 
 
