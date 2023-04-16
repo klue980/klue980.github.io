@@ -36,14 +36,14 @@ skills:
       - PSpice, Eagle
   - category: Programming
     skill:
-      - C, Python
+      - C, C++, Python
       - Dart, Flutter
 
 # Profile
 profile: |
   I'm an undergraudate at Yonsei University in Electrical and Electronic Engineering. 
   I'm in the 1st session of my third year.
-  I'm interested in AI accelator and process in memory(PIM).
+  I'm interested in the Architecture of AI accelator and process in memory(PIM).
 
 # Experience
 experience:
@@ -81,7 +81,13 @@ awards:
 
 # publications
 publications:
-  - title: Lab Cadence Study
+  - title: Lab Paper Study (Ultra-WideBand CMOS Transceiver Architecture)
+    link: "https://drive.google.com/file/d/1Q8_0NcYCuhsCZ6FF034kFvnpv54SR3fQ/view?usp=sharing"
+    authors: Kim Seong Ho
+    conference: 
+
+publications:
+  - title: Lab Cadence Study (Ultra-WideBand Transmitter)
     link: "https://drive.google.com/file/d/1W3gCWfo0rEOInR_aAAA7mEC5qPPFG1cq/view?usp=share_link"
     authors: Kim Seong Ho
     conference: 
@@ -91,8 +97,8 @@ publications:
     authors: Kim Seong Ho
     conference: 
 
-  - title: Verilog Study
-    link: "https://drive.google.com/file/d/1TXPHxJPAxLmtEqyErlnltdIEGFDj8Cyi/view?usp=share_link"
+  - title: Verilog Study (2023 1st semester subject)
+    link: "https://drive.google.com/file/d/1enJbu8TRMOeFBX5scmD9aNwgX7knfQL8/view?usp=sharing"
     authors: Kim Seong Ho
     conference: 
 
