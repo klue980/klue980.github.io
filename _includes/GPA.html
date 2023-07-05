@@ -1,0 +1,9 @@
+{% assign GPA = site.data.data.GPA %}
+{% if GPA %}
+<section class="GPA">
+    <div class="title">GPA</div>
+    {% for score in GPA %}
+        <div class="idiom">{{score.idiom}}</div>
+    {% endfor %}
+</section>
+{% endif %}

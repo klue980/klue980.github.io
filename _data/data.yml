@@ -25,6 +25,10 @@ education:
     time: 2014 - 2017
     university: Hanil High School
 
+GPA:
+  - idiom: "GPA : 3.75 / 4.3"
+  - idiom: "last semester : 4.0 / 4.3" 
+
 skills:
   - category: Digital Circuit
     skill: 
@@ -73,10 +77,10 @@ awards:
       The selected students will receive scholarship for 2 years and get the certification of the track after complete the course.
 
   - role: Merit Based Scholarship
-    time: "2022.10"
+    time: 2022.10, 2023. 08
     company: Yonsei University
     details: |
-      Scolarship for the academic excellence in 2022 2nd semester
+      Scolarship for the academic excellence in 2022 2nd semester and 2023 1st semester
       
 
 # publications
