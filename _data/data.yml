@@ -42,16 +42,17 @@ skills:
     skill:
       - C, C++, Python
       - Dart, Flutter
-  - category: AI & Computing
+  - category: Certificate
     skill:
-      - Computer Specialist in Spreadsheet & Database
+      - (KCCI) Computer Specialist 
+      - in Spreadsheet & Database Level 1
       - (Microsoft) AI-900
 
 # Profile
 profile: |
   I'm an undergraudate at Yonsei University in Electrical and Electronic Engineering. 
-  I'm in the 1st session of my third year.
-  I'm interested in the hardware accelerator architecture for deep learning and processing in memory(PIM).
+  I'm in the 2nd session of my third year.
+  I'm interested in the AI & Deep Learning semiconductor, hardware accelerator architecture for deep learning and processing in memory(PIM).
 
 # Experience
 experience:
