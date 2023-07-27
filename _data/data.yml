@@ -42,6 +42,10 @@ skills:
     skill:
       - C, C++, Python
       - Dart, Flutter
+  - category: AI & Computing
+    skill:
+      - Computer Specialist in Spreadsheet & Database
+      - (Microsoft) AI-900
 
 # Profile
 profile: |
