@@ -97,23 +97,18 @@ awards:
 
 # publications
 publications:
-  - title: Lab Paper Study (Ultra-WideBand CMOS Transceiver Architecture)
-    link: "https://drive.google.com/file/d/1Q8_0NcYCuhsCZ6FF034kFvnpv54SR3fQ/view?usp=sharing"
+  - title: Lab Research Intern Study (Ultra-WideBand CMOS Transceiver Architecture)
+    link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
     authors: Kim Seong Ho
-    conference: 
+    conference:  
 
-  - title: Lab Cadence Study (Ultra-WideBand Transmitter)
-    link: "https://drive.google.com/file/d/1W3gCWfo0rEOInR_aAAA7mEC5qPPFG1cq/view?usp=share_link"
-    authors: Kim Seong Ho
-    conference: 
-
-  - title: Lab PSpice Study
-    link: "https://drive.google.com/file/d/1Nz4H9hVg5_AyMuSwbdTCiL7pXchGIf67/view?usp=share_link"
-    authors: Kim Seong Ho
+  - title: MIPS Study (2023 1st semester subject)
+    link: "https://drive.google.com/file/d/1C2D128rdXu1TDjQuUDisAWQjt8xYxLXu/view?usp=sharing"
+    authors: Kim Seong Ho, Lee Dong Gun
     conference: 
 
   - title: Verilog Study (2023 1st semester subject)
-    link: "https://drive.google.com/file/d/1enJbu8TRMOeFBX5scmD9aNwgX7knfQL8/view?usp=sharing"
+    link: "https://drive.google.com/file/d/1dF-PVI3go3UXlrq878XzSWHfLPUsNj3k/view?usp=sharing"
     authors: Kim Seong Ho
     conference: 
 
