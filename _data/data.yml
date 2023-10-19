@@ -63,20 +63,13 @@ experience:
       - Research Intern for 6 months (Analog & Digital Circuit Design)
       - "Topic : Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver"
     technologies_used: Cadence Virtuoso, PSpice
-
-  - role: 2023 AI Semiconductor Circuit Design Competition
-    time: 2023.08 - 2023.11
-    company: Seoul National University, Cadence Academy, NinePlus
-    details: 
-      - 
-    technologies_used: Cadence Virtuoso, Python
   
   - role: Mandatory Military Service (Information Systems Management)
     time: 2020.10 - 2022.07
     company: Korea Air Force
     details: 
       - Office Automation, Information System Management
-    technologies_used: Python, VBA, Dart, Flutter, HTML
+    technologies_used: Python, Excel, VBA, Flutter, Dart
 
 #awards
 awards:
