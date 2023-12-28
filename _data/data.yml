@@ -63,8 +63,7 @@ experience:
       - Research Intern
       - "Topic : LLaMA2"
     technologies_used: Python
-
-experience:
+    
   - role: Circuit Designer
     time: 2023.01 - 2023.06
     company: Yonsei University Circuit and System Lab
