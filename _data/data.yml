@@ -56,13 +56,13 @@ profile: |
 
 # Experience
 experience:
-  # - role: Architecture Designer
-  #   time: 2023.12 - current
-  #   company: Seoul National University
-  #   details:
-  #     - Research Intern
-  #     - "Topic : LLaMA2"
-  #   technologies_used: Python
+  #  - role: Architecture Designer
+  #    time: 2023.12 - Present
+  #    company: Samsung Electronics Cooperation R&D Center
+  #    details:
+  #      - Research Intern
+  #      - "Topic : LLaMA2"
+  #    technologies_used: Python
     
   - role: Circuit Designer
     time: 2023.01 - 2023.06
