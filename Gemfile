@@ -1,5 +1,9 @@
-source "https://rubygems.org"
+# Gemfile
 
-gem "jekyll", "3.5.2"
+source 'https://rubygems.org'
 
-gem "jekyll-minifier", "0.1.10"
+gem "jekyll", "~> 4.2"
+
+group :jekyll_plugins do
+  gem "jekyll-timeago", "~> 0.13.1"
+end
