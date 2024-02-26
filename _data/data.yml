@@ -1,4 +1,3 @@
-
 name: Kim Seong Ho
 support_dark_mode: true
 fork: false
@@ -62,7 +61,6 @@ experience:
      company: Seoul National University Lab
      details:
        - Research Intern
-       - 
      technologies_used: Python
     
   - role: Circuit Designer
