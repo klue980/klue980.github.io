@@ -1,123 +1,108 @@
-name: Kim Seong Ho
+name: John Doe
 support_dark_mode: true
-fork: false
+fork: true
 
 # Sidebar
 contact:
-  email: klue980@gmail.com
-  github: kluegit
-  linkedin: klue
-  naver: #klue__
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: Korean
   - idiom: English
+  - idiom: Russian
+  - idiom: French
 
 education:
-  - degree: BE in Electrical & Electronic
-    time: 2019 - Present
-    university: Yonsei University
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
 
-  - degree: High School
-    time: 2014 - 2017
-    university: Hanil High School
-
-GPA:
-  - idiom: "GPA(Major) : 3.62 / 4.3"
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
 skills:
-  - category: Digital Circuit
+  - category: Backend
     skill: 
-      - CUDA, Verilog
-      - TensorRT-LLM, PyTorch
-      - Vivado, Vitis
-  - category: Analog Circuit
+      - Go
+      - Rust
+  - category: Frontend
     skill:
-      - Cadence Virtuoso
-      - PSpice, Eagle
-  - category: Programming
+      - React
+      - Typescript
+  - category: DevOps
     skill:
-      - Python, C, C++
-      - Dart, Flutter
-  - category: Certificate
-    skill:
-      - (KCCI) Computer Specialist 
-      - in Spreadsheet & Database Level 1
-      - (Microsoft) AI-900
+      - Docker
+      - Kubernetes 
 
 # Profile
 profile: |
-  I'm an undergraudate at Yonsei University in Electrical and Electronic Engineering. 
-  I'm in the 1st session of my last year.
-  I'm interested in the hardware accelerator for deep learning and homomorphic encryption.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariatur.
 
 # Experience
-experience:    
-  - role: Circuit Designer
-    time: 2023.01 - 2023.06
-    company: Yonsei University Circuit and System Lab
-    details:
-      - Research Intern for 6 months
-      - "Topic : Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver"
-    technologies_used: Cadence Virtuoso, PSpice
+experience:
+  - role: Software Engineer
+    time: 2020-Present
+    company: Google
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Go, Angular, Typescript, C++
   
-  - role: Mandatory Military Service (Information Systems Management)
-    time: 2020.10 - 2022.07
-    company: Korea Air Force
-    details: 
-      - Office Automation, Information System Management
-    technologies_used: Python, Excel, VBA, Flutter, Dart
-
-#Awards
-awards:
-  - role: Yonsei University Semiconductor Specialist Track
-    time: 2023.03 - 2025.02
-    company: Yonsei University School of Electrical and Electronic Engineering
+  - role: Researcher
+    time: 2016-2020
+    company: Microsoft
     details: |
-      Yonsei University Semiconductor Specialist Track was created for 
-      the purpose of supporting the future semiconductor specialists.
-      The selected students will receive scholarship for 2 years and get the certification of the track after complete the course.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Python, Tensorflow, Keras, Matlab
 
-  - role: Merit Based Scholarship
-    time: 2022.12, 2023. 08, 2023.12
-    company: Yonsei University
+publications:
+  - title: Random title of paper. An interesting one.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
+
+  - title: Second title of paper. An interesting one too.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference again, 2018
+
+projects:
+  - title: Cool Project 
+    link: #
     details: |
-      Scolarship for the academic excellence in 2022 2nd semester(Veritas), 2023 1st semester(Semiconductor Specialist Track) and 2023 2nd semester(Veritas)
-      
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
 
-# Publications
-# publications:
-#   - title: Lab Research Intern Study (Ultra-WideBand CMOS TX & TRX Architecture)
-#     link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
-#     authors: Kim Seong Ho
-#     conference:  
+  - title: Cool Project 
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
 
-  # - title: Verilog Study (2023 1st semester subject)
-  #   link: "https://drive.google.com/file/d/1dF-PVI3go3UXlrq878XzSWHfLPUsNj3k/view?usp=sharing"
-  #   authors: Kim Seong Ho
-  #   conference: 
-
-# Projects
-# projects:
-#   - title: SNU Lab Study
-#     link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
-#     details: |
-#       Analysis of Ultra-WideBand CMOS TX & TRX Architecture
-
-#   - title: Circuit and System Lab Study
-#     link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
-#     details: |
-#       Analysis of Ultra-WideBand CMOS TX & TRX Architecture
-
-# # Volunteering
-# volunteering:
-#   - time: 2020-Present
-#     role: PR Manager
-#     company: Some random organization
-#     details: |
-#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-#       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-#       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# Volunteering
+volunteering:
+  - time: 2020-Present
+    role: PR Manager
+    company: Some random organization
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
