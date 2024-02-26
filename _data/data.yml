@@ -1,29 +1,31 @@
-name: John Doe
+name: Kim Seong Ho
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: klue980@gmail.com
+  github: kluegit
+  linkedin: klue
   phone: 
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Korean
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: BE in Electrical & Electronic
+    time: 2019 - Present
+    university: Yonsei University
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: High School
+    time: 2014 - 2017
+    university: Hanil High School
+
+GPA:
+  - idiom: "GPA(Major) : 3.62 / 4.3"
 
 skills:
   - category: Backend
