@@ -2,17 +2,17 @@
     --bg-color: #f1f1f1;
     --bg-color-cv: #ffffff; 
     --fg-color: #07293d; // subheader, role
-    --fg-color-dark: #cd2c2c; // header? 
-    --fg-color-body: #4fb598;
-    --fg-color-title-sm: #5e6369;
+    --fg-color-dark: #000000; // header
+    --fg-color-body: #07293d; // body
+    --fg-color-title-sm: #7992a1; // time
 
 }
 
 [data-theme='dark'] {
-    --bg-color: #28343b;
-    --bg-color-cv: #1b262c;
-    --fg-color: #3282b8;
-    --fg-color-dark: #3282b8;
-    --fg-color-body: rgba(187,225,250,0.75);
-    --fg-color-title-sm: #688293;
+    --bg-color: #07293d;
+    --bg-color-cv: #000000;
+    --fg-color: #f1f1f1;
+    --fg-color-dark: #ffffff;
+    --fg-color-body: #f1f1f1;
+    --fg-color-title-sm: #7992a1; // time
 }
