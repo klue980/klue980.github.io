@@ -6,7 +6,7 @@ fork: false
 contact:
   email: klue980@gmail.com
   github: kluegit
-  linkedin: seong-ho-kim-092671263
+  linkedin: klue
   naver: #klue__
   phone: 
   gitlab: 
@@ -26,13 +26,13 @@ education:
     university: Hanil High School
 
 GPA:
-  - idiom: "GPA(Major) : 3.75 / 4.3"
-  - idiom: "last semester : 4.0 / 4.3" 
+  - idiom: "GPA(Major) : 3.62 / 4.3"
 
 skills:
   - category: Digital Circuit
     skill: 
-      - Verilog
+      - CUDA, Verilog
+      - TensorRT-LLM, PyTorch
       - Vivado, Vitis
   - category: Analog Circuit
     skill:
@@ -40,7 +40,7 @@ skills:
       - PSpice, Eagle
   - category: Programming
     skill:
-      - C, C++, Python
+      - Python, C, C++
       - Dart, Flutter
   - category: Certificate
     skill:
@@ -51,25 +51,25 @@ skills:
 # Profile
 profile: |
   I'm an undergraudate at Yonsei University in Electrical and Electronic Engineering. 
-  I'm in the 2nd session of my third year.
-  I'm interested in the semiconductor and hardware accelerator for deep learning and homomorphic encryption.
+  I'm in the 1st session of my last year.
+  I'm interested in the hardware accelerator for deep learning and homomorphic encryption.
 
 # Experience
 experience:
-  #  - role: Architecture Designer
-  #    time: 2023.12 - Present
-  #    company: Samsung Electronics Cooperation R&D Center
-  #    details:
-  #      - Research Intern
-  #      - "Topic : LLaMA2"
-  #    technologies_used: Python
+   - role: Architecture Designer
+     time: 2023.12 - 2024.02
+     company: Seoul National University Lab
+     details:
+       - Research Intern
+       - 
+     technologies_used: Python
     
   - role: Circuit Designer
     time: 2023.01 - 2023.06
     company: Yonsei University Circuit and System Lab
     details:
-      - Research Intern for 6 months (Analog & Digital Circuit Design)
-      - "Topic : Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver"
+      - Research Intern
+      - Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver
     technologies_used: Cadence Virtuoso, PSpice
   
   - role: Mandatory Military Service (Information Systems Management)
@@ -97,28 +97,29 @@ awards:
       
 
 # publications
-publications:
-  - title: Lab Research Intern Study (Ultra-WideBand CMOS TX & TRX Architecture)
+# publications:
+#   - title: Lab Research Intern Study (Ultra-WideBand CMOS TX & TRX Architecture)
+#     link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
+#     authors: Kim Seong Ho
+#     conference:  
+
+  # - title: Verilog Study (2023 1st semester subject)
+  #   link: "https://drive.google.com/file/d/1dF-PVI3go3UXlrq878XzSWHfLPUsNj3k/view?usp=sharing"
+  #   authors: Kim Seong Ho
+  #   conference: 
+
+# projects
+projects:
+  - title: SNU Lab Study
     link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
-    authors: Kim Seong Ho
-    conference:  
+    details: |
+      Analysis of Ultra-WideBand CMOS TX & TRX Architecture
 
-  - title: Verilog Study (2023 1st semester subject)
-    link: "https://drive.google.com/file/d/1dF-PVI3go3UXlrq878XzSWHfLPUsNj3k/view?usp=sharing"
-    authors: Kim Seong Ho
-    conference: 
+  - title: Circuit and System Lab Study
+    link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
+    details: |
+      Analysis of Ultra-WideBand CMOS TX & TRX Architecture
 
-# projects:
-#   - title: Cool Project 
-#     link: #
-#     details: |
-#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-#       tempor incididunt ut labore et dolore magna aliqua.
-#   - title: Cool Project 
-#     link: #
-#     details: |
-#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-#       tempor incididunt ut labore et dolore magna aliqua.
 # # Volunteering
 # volunteering:
 #   - time: 2020-Present
