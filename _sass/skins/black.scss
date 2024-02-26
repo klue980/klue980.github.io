@@ -1,15 +1,15 @@
 :root {
     --bg-color: #f1f1f1;
     --bg-color-cv: #ffffff; 
-    --fg-color: #07293d; // subheader, role
+    --fg-color: #021b27; // subheader, role
     --fg-color-dark: #000000; // header
-    --fg-color-body: #07293d; // body
+    --fg-color-body: #99a0a4; // body
     --fg-color-title-sm: #7992a1; // time
 
 }
 
 [data-theme='dark'] {
-    --bg-color: #07293d;
+    --bg-color: #021b27;
     --bg-color-cv: #000000;
     --fg-color: #f1f1f1;
     --fg-color-dark: #ffffff;
