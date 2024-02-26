@@ -55,20 +55,13 @@ profile: |
   I'm interested in the hardware accelerator for deep learning and homomorphic encryption.
 
 # Experience
-experience:
-   - role: Architecture Designer
-     time: 2023.12 - 2024.02
-     company: Seoul National University Lab
-     details:
-       - Research Intern
-     technologies_used: Python
-    
+experience:    
   - role: Circuit Designer
     time: 2023.01 - 2023.06
     company: Yonsei University Circuit and System Lab
     details:
-      - Research Intern
-      - Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver
+      - Research Intern for 6 months
+      - "Topic : Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver"
     technologies_used: Cadence Virtuoso, PSpice
   
   - role: Mandatory Military Service (Information Systems Management)
@@ -78,7 +71,7 @@ experience:
       - Office Automation, Information System Management
     technologies_used: Python, Excel, VBA, Flutter, Dart
 
-#awards
+#Awards
 awards:
   - role: Yonsei University Semiconductor Specialist Track
     time: 2023.03 - 2025.02
@@ -95,7 +88,7 @@ awards:
       Scolarship for the academic excellence in 2022 2nd semester(Veritas), 2023 1st semester(Semiconductor Specialist Track) and 2023 2nd semester(Veritas)
       
 
-# publications
+# Publications
 # publications:
 #   - title: Lab Research Intern Study (Ultra-WideBand CMOS TX & TRX Architecture)
 #     link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
@@ -107,7 +100,7 @@ awards:
   #   authors: Kim Seong Ho
   #   conference: 
 
-# projects
+# Projects
 # projects:
 #   - title: SNU Lab Study
 #     link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
