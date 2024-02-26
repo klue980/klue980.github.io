@@ -110,16 +110,16 @@ awards:
   #   conference: 
 
 # projects
-projects:
-  - title: SNU Lab Study
-    link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
-    details: |
-      Analysis of Ultra-WideBand CMOS TX & TRX Architecture
+# projects:
+#   - title: SNU Lab Study
+#     link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
+#     details: |
+#       Analysis of Ultra-WideBand CMOS TX & TRX Architecture
 
-  - title: Circuit and System Lab Study
-    link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
-    details: |
-      Analysis of Ultra-WideBand CMOS TX & TRX Architecture
+#   - title: Circuit and System Lab Study
+#     link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
+#     details: |
+#       Analysis of Ultra-WideBand CMOS TX & TRX Architecture
 
 # # Volunteering
 # volunteering:
