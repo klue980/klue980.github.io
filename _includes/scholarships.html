@@ -1,17 +1,17 @@
 {% assign scholarships = site.data.data.scholarships %}
 {% if scholarships %}
 <section class="scholarships">
-    <h2 class="title">scholarships</h2>
-    {% for awd in scholarships %}
+    <h2 class="title">Scholarships</h2>
+    {% for sh in scholarships %}
         <div class="scholarships-item">
             <div class="role">
-                {{awd.role}}
+                {{sh.role}}
             </div>
             <div class="company">
-                {{awd.company}} 
-                <span class="time">{{awd.time}}</span>
+                {{sh.company}} 
+                <span class="time">{{sh.time}}</span>
             </div> 
-            <div class="details">{{awd.details}}</div>
+            <div class="details">{{sh.details}}</div>
         </div>
         
     {% endfor %}
