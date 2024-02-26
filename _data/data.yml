@@ -82,11 +82,11 @@ experience:
     technologies_used: | 
       Python, Excel, VBA, Flutter, Dart
 
-#Awards
-awards:
-  - role: Yonsei University Semiconductor Specialist Track
+# Scholarships
+scholarships:
+  - role: Semiconductor Specialist Track
     time: 2023.03 - 2025.02
-    company: Yonsei University School of Electrical and Electronic Engineering
+    company: Yonsei University
     details: |
       Yonsei University Semiconductor Specialist Track was created for 
       the purpose of supporting the future semiconductor specialists.
