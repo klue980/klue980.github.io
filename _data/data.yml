@@ -28,18 +28,25 @@ GPA:
   - idiom: "GPA(Major) : 3.62 / 4.3"
 
 skills:
-  - category: Backend
+  - category: Digital Architecture
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - CUDA, Verilog
+      - TensorRT-LLM, PyTorch
+      - Vivado, Vitis
+  - category: Analog Circuit
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Cadence Virtuoso
+      - PSpice, Eagle
+  - category: Programming
     skill:
-      - Docker
-      - Kubernetes 
+      - Python, C, C++
+      - Docker, 
+      - Dart, Flutter
+  - category: Certificate
+    skill:
+      - (KCCI) Computer Specialist 
+      - in Spreadsheet & Database Level 1
+      - (Microsoft) AI-900
 
 # Profile
 profile: |
