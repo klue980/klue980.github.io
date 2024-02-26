@@ -2,7 +2,7 @@ title: CV | Kim Seong Ho
 description:  
 url: 
 baseurl: ''
-theme_skin: blue
+theme_skin: black
 
 sass:
   sass_dir: _sass
