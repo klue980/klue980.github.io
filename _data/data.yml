@@ -24,8 +24,8 @@ education:
     time: 2014 - 2017
     university: Hanil High School
 
-GPA:
-  - idiom: "GPA(Major) : 3.62 / 4.3"
+# GPA:
+#   - idiom: "GPA(Major) : 3.62 / 4.3"
 
 skills:
   - category: Digital Architecture
