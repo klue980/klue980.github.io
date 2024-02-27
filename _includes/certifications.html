@@ -2,16 +2,16 @@
 {% if certifications %}
 <section class="certifications">
     <h2 class="title">certifications</h2>
-    {% for awd in certifications %}
+    {% for cer in certifications %}
         <div class="certifications-item">
             <div class="role">
-                {{awd.role}}
+                {{cer.role}}
             </div>
             <div class="company">
-                {{awd.company}} 
-                <span class="time">{{awd.time}}</span>
+                {{cer.company}} 
+                <span class="time">{{cer.time}}</span>
             </div> 
-            <div class="details">{{awd.details}}</div>
+            <div class="details">{{cer.details}}</div>
         </div>
         
     {% endfor %}

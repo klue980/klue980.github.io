@@ -42,23 +42,18 @@ skills:
       - Python, C, C++
       - Docker, 
       - Dart, Flutter
-  - category: Certificate
-    skill:
-      - (KCCI) Computer Specialist 
-      - in Spreadsheet & Database Level 1
-      - (Microsoft) AI-900
 
 # Profile
 profile: |
-  I'm an undergraudate at Yonsei University in Electrical and Electronic Engineering. 
-  I'm in the 1st session of my last year.
-  I'm interested in the hardware accelerator for deep learning and homomorphic encryption.
+  - I'm an undergraudate at Yonsei University in Electrical and Electronic Engineering. 
+  - I'm in the 1st session of my last year.
+  - I'm interested in the hardware accelerator for deep learning and homomorphic encryption.
 
 # Experience
 experience:
   - role: LLM Accelerator Engineer
     time: 2023.12 - 2024.02
-    company: Seoul National University Lab
+    company: Seoul National University
     details:
       - Research Intern
       - Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver
@@ -81,6 +76,16 @@ experience:
       - Office Automation, Information System Management
     technologies_used: | 
       Python, Excel, VBA, Flutter, Dart
+
+# Certificates
+certificates:
+  - role: "AI-900: Microsoft Azure AI Fundamentals"
+    time: 2023.03 - 2025.02
+    company: Microsoft
+
+  - role: Computer Specialist in Spreadsheet & Database Level 1
+    time: 2022.06
+    company: KCCI
 
 # Scholarships
 scholarships:
