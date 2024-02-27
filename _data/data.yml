@@ -28,15 +28,15 @@ education:
 #   - idiom: "GPA(Major) : 3.62 / 4.3"
 
 skills:
-  - category: Digital Architecture
+  - category: Computer Architecture
     skill: 
-      - CUDA, Verilog
-      - PyTorch, TensorRT-LLM
-      - Vivado, Vitis
-  - category: Analog Circuit
+      - CUDA, PyTorch
+      - TensorRT-LLM, Nsight
+  - category: Circuit Design
     skill:
+      - Verilog
+      - Xillinx Vivado
       - Cadence Virtuoso
-      - PSpice, Eagle
   - category: Programming
     skill:
       - Python, C, C++
@@ -45,7 +45,7 @@ skills:
 
 # Profile
 profile: |
-  - I'm an undergraudate at Yonsei University in Electrical and Electronic Engineering. 
+  - "I'm an undergraudate at Yonsei University in Electrical and Electronic Engineering.\n"
   - I'm in the 1st session of my last year.
   - I'm interested in the hardware accelerator for deep learning and homomorphic encryption.
 
