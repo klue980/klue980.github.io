@@ -31,7 +31,7 @@ skills:
   - category: Digital Architecture
     skill: 
       - CUDA, Verilog
-      - TensorRT-LLM, PyTorch
+      - PyTorch, TensorRT-LLM
       - Vivado, Vitis
   - category: Analog Circuit
     skill:
@@ -51,18 +51,20 @@ profile: |
 
 # Experience
 experience:
-  - role: LLM Accelerator Engineer
+  - role: LLM Accelerator Architecture Engineer
     time: 2023.12 - 2024.02
     company: Seoul National University
     details:
       - Research Intern
-      - Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver
+      - Apply GQA to Llama2-7B on TensorRT-LLM
     technologies_used: | 
-      Cadence Virtuoso, PSpice
+      Python, PyTorch, CUDA, TensorRT-LLM, Docker, Nsight Systems, Nsight Compute
 
   - role: Circuit Engineer
     time: 2023.01 - 2023.06
-    company: Yonsei University Circuit and System Lab
+    company: 
+      - Yonsei University Circuit and System Lab
+      - Research Intern
     details:
       - Research Intern
       - Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver

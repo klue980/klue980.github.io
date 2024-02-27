@@ -1,7 +1,8 @@
 :root {
     --bg-color: #f1f1f1;
     --bg-color-cv: #ffffff; 
-    --fg-color: #021b27; // subheader, role
+    --fg-color: #021b27; // title
+    --fg-color-sub: #021b27; // role, sub-header
     --fg-color-dark: #000000; // header
     --fg-color-body: #99a0a4; // body
     --fg-color-title-sm: #7992a1; // time
@@ -12,6 +13,7 @@
     --bg-color: #021b27;
     --bg-color-cv: #000000;
     --fg-color: #f1f1f1;
+    --fg-color-sub: #f1f1f1; // sub-header
     --fg-color-dark: #ffffff;
     --fg-color-body: #f1f1f1;
     --fg-color-title-sm: #7992a1; // time
