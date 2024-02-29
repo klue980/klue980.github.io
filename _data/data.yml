@@ -30,22 +30,22 @@ education:
 skills:
   - category: Computer Architecture
     skill: 
-      - CUDA, PyTorch
+      - CUDA, C, C++
+      - Python, PyTorch
       - TensorRT-LLM, Nsight
-  - category: Circuit Design
+  - category: Digital Circuit Design
     skill:
       - Verilog
       - Xillinx Vivado
-      - Cadence Virtuoso
+      - Cadence Virtuoso (Analog)
   - category: Programming
     skill:
-      - Python, C, C++
-      - Docker, 
+      - Docker
       - Dart, Flutter
 
 # Profile
 profile: |
-  - "I'm an undergraudate at Yonsei University in Electrical and Electronic Engineering.\n"
+  - I'm an undergraudate at Yonsei University in Electrical and Electronic Engineering.
   - I'm in the 1st session of my last year.
   - I'm interested in the hardware accelerator for deep learning and homomorphic encryption.
 
@@ -115,9 +115,9 @@ scholarships:
 # Projects
 projects:
   - title: SNU Lab Study
-    link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
+    link: ""
     details: |
-      Analysis of Ultra-WideBand CMOS TX & TRX Architecture
+      Apply GQA to Llama2-7B on TensorRT-LLM
 
   - title: Circuit and System Lab Study
     link: "https://drive.google.com/file/d/1DIE-QB58-gWAj9FHtF4tP1jNMG_2th0z/view?usp=sharing"
