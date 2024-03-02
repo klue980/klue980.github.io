@@ -1,6 +1,6 @@
 name: Kim Seong Ho
 support_dark_mode: true
-fork: false
+fork: true
 
 # Sidebar
 contact:
@@ -24,9 +24,9 @@ education:
     time: 2014 - 2017
     university: Hanil High School
 
- GPA:
-   - idiom: "Department GPA : / 4.3"
-   - idiom: "Cumulative GPA : / 4.3"
+#  GPA:
+#    - idiom: "Department GPA : / 4.3"
+#    - idiom: "Cumulative GPA : / 4.3"
 
 skills:
   - category: Computer Architecture
@@ -96,9 +96,7 @@ scholarships:
     time: 2023.03 - 2025.02
     company: Yonsei University
     details: |
-      Yonsei University Semiconductor Specialist Track was created for 
-      the purpose of supporting the future semiconductor specialists.
-      The selected students will receive scholarship for 2 years and get the certification of the track after complete the course.
+      Yonsei University Semiconductor Specialist Track was created for the purpose of supporting the future semiconductor specialists.The selected students will receive scholarship for 2 years and get the certification of the track after complete the course.
 
   - role: Merit Based Scholarship
     time: 2022.12, 2023. 08, 2023.12
