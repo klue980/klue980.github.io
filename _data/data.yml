@@ -24,9 +24,9 @@ education:
     time: 2014 - 2017
     university: Hanil High School
 
-#  GPA:
-#    - idiom: "Department GPA : / 4.3"
-#    - idiom: "Cumulative GPA : / 4.3"
+ GPA:
+   - idiom: "Department GPA : / 4.3"
+   - idiom: "Cumulative GPA : / 4.3"
 
 skills:
   - category: Computer Architecture
