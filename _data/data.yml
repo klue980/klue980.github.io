@@ -82,15 +82,15 @@ experience:
 
 # Certifications
 certifications:
-  - role: "AI-900: Microsoft Azure AI Fundamentals"
+  - role: Microsoft Azure AI Fundamentals
     time: 2023.03 - 2025.02
     company: Microsoft
-    details: ss
+    details: ""
 
   - role: Computer Specialist in Spreadsheet & Database Level-1 (Highest Level)
     time: 2022.06
     company: KCCI (Korea Chamber of Commerce and Industry)
-    details: ss
+    details: ""
 
 # Scholarships
 scholarships:
