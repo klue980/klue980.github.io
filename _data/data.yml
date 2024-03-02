@@ -24,9 +24,10 @@ education:
     time: 2014 - 2017
     university: Hanil High School
 
- GPA:
-   - idiom: "Department GPA : / 4.3"
-   - idiom: "Cumulative GPA : / 4.3"
+# GPA block has problems with the current layout. It will be fixed in the future.
+#  GPA:
+#    - idiom: "Department GPA : / 4.3"
+#    - idiom: "Cumulative GPA : / 4.3"
 
 skills:
   - category: Computer Architecture
@@ -80,15 +81,15 @@ experience:
     technologies_used: | 
       Python, Excel, VBA, Flutter, Dart
 
-# Certificates
-# certificates:
-#   - role: "AI-900: Microsoft Azure AI Fundamentals"
-#     time: 2023.03 - 2025.02
-#     company: Microsoft
+# Certifications
+certifications:
+  - role: "AI-900: Microsoft Azure AI Fundamentals"
+    time: 2023.03 - 2025.02
+    company: Microsoft
 
-#   - role: Computer Specialist in Spreadsheet & Database Level 1
-#     time: 2022.06
-#     company: KCCI
+  - role: Computer Specialist in Spreadsheet & Database Level 1
+    time: 2022.06
+    company: KCCI
 
 # Scholarships
 scholarships:
