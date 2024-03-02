@@ -81,14 +81,14 @@ experience:
       Python, Excel, VBA, Flutter, Dart
 
 # Certificates
-certificates:
-  - role: "AI-900: Microsoft Azure AI Fundamentals"
-    time: 2023.03 - 2025.02
-    company: Microsoft
+# certificates:
+#   - role: "AI-900: Microsoft Azure AI Fundamentals"
+#     time: 2023.03 - 2025.02
+#     company: Microsoft
 
-  - role: Computer Specialist in Spreadsheet & Database Level 1
-    time: 2022.06
-    company: KCCI
+#   - role: Computer Specialist in Spreadsheet & Database Level 1
+#     time: 2022.06
+#     company: KCCI
 
 # Scholarships
 scholarships:
