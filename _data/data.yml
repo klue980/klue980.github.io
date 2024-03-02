@@ -24,8 +24,9 @@ education:
     time: 2014 - 2017
     university: Hanil High School
 
-# GPA:
-#   - idiom: "GPA(Major) : 3.62 / 4.3"
+ GPA:
+   - idiom: "Department GPA : / 4.3"
+   - idiom: "Cumulative GPA : / 4.3"
 
 skills:
   - category: Computer Architecture
@@ -36,7 +37,7 @@ skills:
   - category: Digital Circuit Design
     skill:
       - Verilog
-      - Xillinx Vivado
+      - Xilinx Vivado
       - Cadence Virtuoso (Analog)
   - category: Programming
     skill:
@@ -85,7 +86,7 @@ certificates:
     time: 2023.03 - 2025.02
     company: Microsoft
 
-  - role: Computer Specialist in Spreadsheet & Database Level 1
+  - role: Computer Specialist in Spreadsheet & Database
     time: 2022.06
     company: KCCI
 
