@@ -80,17 +80,15 @@ experience:
     technologies_used: | 
       Python, Excel, VBA, Flutter, Dart
 
-# Certifications
-# certifications:
-#   - role: Microsoft Azure AI Fundamentals
-#     time: 2023.03 - 2025.02
-#     company: Microsoft
-#     details: ""
+# Certificates
+certificates:
+  - role: "AI-900: Microsoft Azure AI Fundamentals"
+    time: 2023.03 - 2025.02
+    company: Microsoft
 
-#   - role: Computer Specialist in Spreadsheet & Database Level-1 (Highest Level)
-#     time: 2022.06
-#     company: KCCI (Korea Chamber of Commerce and Industry)
-#     details: ""
+  - role: Computer Specialist in Spreadsheet & Database Level 1
+    time: 2022.06
+    company: KCCI
 
 # Scholarships
 scholarships:
