@@ -62,20 +62,20 @@ experience:
       CUDA, Verilog, Python, Nsight, Docker, Linux
   
     - role: Invited Project Builder of LLM Acceleration
-    time: 2024.03 - Present
-    company: Backdrop Build
-    details:
-      - Analyze the possibility of accelerating Gemma 2B (sLLM of Google DeepMind)
-    technologies_used: | 
-      CUDA, Python, C/C++
+      time: 2024.03 - Present
+      company: Backdrop Build
+      details:
+        - Analyze the possibility of accelerating Gemma 2B (sLLM of Google DeepMind)
+      technologies_used: | 
+        CUDA, Python, C/C++
 
     - role: SNU Convergence Research Intern
-    time: 2023.12 - 2024.02
-    company: Seoul National University
-    details:
-      - Acceleration of Llama2 7B (LLM of Meta)
-    technologies_used: | 
-      CUDA, Python, PyTorch, C/C++, TensorRT-LLM, Nsight, Docker, Linux
+      time: 2023.12 - 2024.02
+      company: Seoul National University
+      details:
+        - Acceleration of Llama2 7B (LLM of Meta)
+      technologies_used: | 
+        CUDA, Python, PyTorch, C/C++, TensorRT-LLM, Nsight, Docker, Linux
 
   - role: Undergraduate Research Intern
     time: 2023.01 - 2023.06
