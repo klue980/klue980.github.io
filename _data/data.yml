@@ -53,23 +53,36 @@ profile: |
 
 # Experience
 experience:
-  - role: LLM Accelerator Architecture Engineer
+  - role: Team Lead of Undergraduate Research
+    time: 2024.03 - Present
+    company: DATES Lab in Yonsei University (prof. Joon Sung Yang)
+    details:
+      - Acceleration of Gemma 2B (sLLM of Google DeepMind)
+    technologies_used: | 
+      CUDA, Verilog, Python, Nsight, Docker, Linux
+  
+    - role: Invited Project Builder of LLM Acceleration
+    time: 2024.03 - Present
+    company: Backdrop Build
+    details:
+      - Analyze the possibility of accelerating Gemma 2B (sLLM of Google DeepMind)
+    technologies_used: | 
+      CUDA, Python, C/C++
+
+    - role: SNU Convergence Research Intern
     time: 2023.12 - 2024.02
     company: Seoul National University
     details:
-      - Research Intern
-      - Apply GQA to Llama2-7B on TensorRT-LLM
+      - Acceleration of Llama2 7B (LLM of Meta)
     technologies_used: | 
-      Python, PyTorch, CUDA, TensorRT-LLM, Docker, Nsight Systems, Nsight Compute
+      CUDA, Python, PyTorch, C/C++, TensorRT-LLM, Nsight, Docker, Linux
 
-  - role: Circuit Engineer
+  - role: Undergraduate Research Intern
     time: 2023.01 - 2023.06
     company: 
-      - Yonsei University Circuit and System Lab
-      - Research Intern
+      - Circuit and System Lab in Yonsei University (prof. Tae Wook Kim)
     details:
-      - Research Intern
-      - Impulse Radio Ultra-Wideband (IR-UWB) Transmitter & Transceiver
+      - Design Impulse Radio Ultra-WideBand (IR-UWB) transmitter and transceiver
     technologies_used: | 
       Cadence Virtuoso, PSpice
   
@@ -79,7 +92,7 @@ experience:
     details: 
       - Office Automation, Information System Management
     technologies_used: | 
-      Python, Excel, VBA, Flutter, Dart
+      VBA, Excel, Word, Python, HTML
 
 # Certifications
 certifications:
