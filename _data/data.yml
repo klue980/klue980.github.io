@@ -57,12 +57,7 @@ experience:
     time: 2024.03 - Present
     company: DATES Lab in Yonsei University (prof. Joon Sung Yang)
     details:
-      - Acceleration of Gemma 2B (sLLM of Google DeepMind).
-      -	Established objectives of research and manage the research plan.
-      -	Optimize kernel of Multi Query Attention (MQA) with CUDA programming.
-      -	Design FPGA accelerator optimized for MQA with Verilog programming.
-      -	Conduct the sanity test of optimized kernel and FPGA accelerator.
-      -	Analyze performance of optimized kernel and FPGA accelerator.
+      - Acceleration of Gemma 2B (sLLM of Google DeepMind). Established objectives of research and manage the research plan. Optimize kernel of Multi Query Attention (MQA) with CUDA programming. Design FPGA accelerator optimized for MQA with Verilog programming. Conduct the sanity test of optimized kernel and FPGA accelerator. Analyze performance of optimized kernel and FPGA accelerator.
     technologies_used: | 
       CUDA, Verilog, Python, Nsight, Docker, Linux
   
@@ -78,11 +73,7 @@ experience:
     time: 2023.12 - 2024.02
     company: Seoul National University
     details:
-      - Acceleration of Llama2 7B (LLM of Meta).
-      -	Analyzed the performance improvement of Llama2 7B on TensorRT-LLM.
-      -	Established research objectives on significant and feasible kernel optimization.
-      -	Replaced Multi Head Attention (MHA) of Llama2 7B with Group Query Attention (GQA).
-      -	Analyzed the performance of GQA kernel in contrast to the MHA kernel.
+      - Acceleration of Llama2 7B (LLM of Meta). Analyzed the performance improvement of Llama2 7B on TensorRT-LLM.	Established research objectives on significant and feasible kernel optimization. Replaced Multi Head Attention (MHA) of Llama2 7B with Group Query Attention (GQA). Analyzed the performance of GQA kernel in contrast to the MHA kernel.
     technologies_used: | 
       Python, PyTorch, C/C++, CUDA, TensorRT-LLM, Nsight, Docker, Linux
 
@@ -90,10 +81,7 @@ experience:
     time: 2023.01 - 2023.06
     company: Circuit and System Lab in Yonsei University (prof. Tae Wook Kim)
     details:
-      - Analyzed Impulse Radio Ultra-WideBand (IR-UWB) transmitter and transceiver.
-      -	Designed proposed pulse generator of UWB transmitter.
-      -	Analyzed the architecture of UWB transmitter and transceiver.
-      -	Optimized the performance of multi-stage amplifier.
+      - Analyzed Impulse Radio Ultra-WideBand (IR-UWB) transmitter and transceiver. Designed proposed pulse generator of UWB transmitter. Analyzed the architecture of UWB transmitter and transceiver. Optimized the performance of multi-stage amplifier.
     technologies_used: | 
       Cadence Virtuoso, PSpice
   
@@ -101,8 +89,7 @@ experience:
     time: 2020.10 - 2022.07
     company: Korea Air Force
     details: 
-      # - "Honors: Outstanding member of a unit; regimental commander’s award; "
-      - Office automation and information system management.
+      - "Honors: Outstanding member of a unit; regimental commander’s award; Office automation and information system management."
     technologies_used: | 
       VBA, Excel, Word, Python, HTML
 
