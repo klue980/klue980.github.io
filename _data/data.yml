@@ -101,7 +101,7 @@ experience:
     time: 2020.10 - 2022.07
     company: Korea Air Force
     details: 
-      - "Honors: Outstanding member of a unit; regimental commander’s award; "
+      # - "Honors: Outstanding member of a unit; regimental commander’s award; "
       - Office automation and information system management.
     technologies_used: | 
       VBA, Excel, Word, Python, HTML
