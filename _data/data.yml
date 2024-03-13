@@ -59,7 +59,7 @@ experience:
     details:
       - Acceleration of Gemma 2B (sLLM of Google DeepMind). Established objectives of research and manage the research plan. Optimize kernel of Multi Query Attention (MQA) with CUDA programming. Design FPGA accelerator optimized for MQA with Verilog programming. Conduct the sanity test of optimized kernel and FPGA accelerator. Analyze performance of optimized kernel and FPGA accelerator.
     technologies_used: | 
-      CUDA, Verilog, Python, Nsight, Docker, Linux with NVIDIA RTX TITAN x2 (Turing)
+      CUDA, Verilog with NVIDIA RTX TITAN x2 (Turing)
   
   - role: Invited Project Builder of LLM Acceleration
     time: 2024.03 - Present
@@ -67,7 +67,7 @@ experience:
     details:
       - Analyze the possibility of accelerating Gemma 2B (sLLM of Google DeepMind)
     technologies_used: | 
-      CUDA, Python, C/C++ with NVIDIA RTX 4000 Ada (Ada Lovelace)
+      Python, C/C++ with NVIDIA RTX 4000 Ada (Ada Lovelace)
 
   - role: SNU Convergence Research Intern
     time: 2023.12 - 2024.02
