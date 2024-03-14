@@ -55,7 +55,8 @@ experience:
     time: 2024.03 - Present
     company: DATES Lab in Yonsei University (prof. JoonSung Yang)
     details:
-      - Acceleration of Gemma 2B (sLLM of Google DeepMind). Established objectives of research and manage the research plan. Optimize kernel of Multi Query Attention (MQA) with CUDA programming. Design FPGA accelerator optimized for MQA with Verilog programming. Conduct the sanity test of optimized kernel and FPGA accelerator. Analyze performance of optimized kernel and FPGA accelerator.
+      - Acceleration of Gemma 2B (sLLM of Google DeepMind). 
+      - Established objectives of research and manage the research plan. Optimize kernel of Multi Query Attention (MQA) with CUDA programming. Design FPGA accelerator optimized for MQA with Verilog programming. Conduct the sanity test of optimized kernel and FPGA accelerator. Analyze performance of optimized kernel and FPGA accelerator.
     technologies_used: | 
       CUDA with NVIDIA RTX TITAN x2 (Turing), Verilog
   
