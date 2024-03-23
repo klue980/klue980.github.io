@@ -5,8 +5,8 @@ fork: true
 # Sidebar
 contact:
   email: klue980@gmail.com
-  github: klue980
-  linkedin: klue
+  github: seongho-git
+  linkedin: kimseongho
   phone: 
   gitlab: 
   twitter: 
@@ -113,7 +113,7 @@ certifications:
 
 # Scholarships
 scholarships:
-  - role: BE/MS/Ph.D Accerlerated Degree Program
+  - role: Integrated B.S./M.S./Ph.D
     time: 2025.02 - 2028.02
     company: Yonsei University
     details: |
