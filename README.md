@@ -3,7 +3,7 @@
 - from https://github.com/Stavrospanakakis/jekyll-cv
 
 ## Homepage Link
-- [klue980.github.io](https://klue980.github.io/)
+- [seongho-git.github.io](https://seongho-git.github.io/)
 
 ## Build witr Local Environment
 1. [Install Ruby](https://rubyinstaller.org/)
