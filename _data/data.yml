@@ -5,11 +5,12 @@ fork: true
 # Sidebar
 contact:
   email: klue980@gmail.com
+  email: seongho-kim@yonsei.ac.kr
   github: seongho-git
-  linkedin: kimseongho
+  linkedin: seongho-kim
   phone: 
   gitlab: 
-  twitter: 
+  twitter: seongho__kim
 
 languages:
   - idiom: Korean
