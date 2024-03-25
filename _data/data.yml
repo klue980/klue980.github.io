@@ -65,7 +65,7 @@ experience:
       CUDA with NVIDIA RTX TITAN x2 (Turing), Verilog
   
   - role: Invited Project Builder of LLM Acceleration
-    time: 2024.03 - Present
+    time: 2024.02 - 2024.03
     company: Backdrop Build
     details:
       - Analyze the possibility of accelerating Gemma 2B (sLLM of Google DeepMind)
