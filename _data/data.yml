@@ -55,7 +55,7 @@ experience:
     time: 2024.04 - Present
     company: Backdrop Build V4
     details:
-      - Writing a paper of analyzing Llama3 8B (LLM of META) and Gemma 2B (sLLM of Google DeepMind) with the title "Analysis of open source LLMs and their operations"
+      - Writing a paper of analyzing Llama3 8B (LLM of Meta) and Gemma 2B (sLLM of Google DeepMind) with the title "Analysis of open source LLMs and their operations"
     technologies_used: | 
       Python, C/C++ with NVIDIA RTX 4090 (Ada Lovelace) of RunPod Cloud
 
