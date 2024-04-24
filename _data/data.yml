@@ -4,9 +4,9 @@ fork: true
 
 # Sidebar
 contact:
-  email: klue980@gmail.com
-  github: klue980
-  linkedin: klue
+  email: seongho-kim@yonsei.ac.kr
+  github: seongho-git
+  linkedin: seongho-kim
   phone: 
   gitlab: 
   twitter: 
@@ -71,8 +71,8 @@ experience:
       CUDA with NVIDIA RTX TITAN x2 (Turing), Verilog
   
   - role: Invited Project Builder of LLM Acceleration
-    time: 2024.03 - Present
-    company: Backdrop Build V3
+    time: 2024.02 - 2024.03
+    company: Backdrop Build
     details:
       - Analyze the possibility of accelerating Gemma 2B (sLLM of Google DeepMind)
     technologies_used: | 
@@ -119,7 +119,7 @@ certifications:
 
 # Scholarships
 scholarships:
-  - role: BE/MS/Ph.D Accerlerated Degree Program
+  - role: Integrated B.S./M.S./Ph.D
     time: 2025.02 - 2028.02
     company: Yonsei University
     details: |
