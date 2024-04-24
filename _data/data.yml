@@ -51,6 +51,14 @@ profile: |
 
 # Experience
 experience:
+  - role: Invited Project Builder of LLM Acceleration
+    time: 2024.04 - Present
+    company: Backdrop Build V4
+    details:
+      - Writing a paper of analyzing Llama3 8B (LLM of META) and Gemma 2B (sLLM of Google DeepMind) with the title "Analysis of open source LLMs and their operations"
+    technologies_used: | 
+      Python, C/C++ with NVIDIA RTX 4090 (Ada Lovelace) of RunPod Cloud
+
   - role: Team Lead of Undergraduate Research
     time: 2024.03 - Present
     company: DATES Lab in Yonsei University (prof. JoonSung Yang)
@@ -59,18 +67,16 @@ experience:
       - "- Established objectives of research and manage the research plan."
       - "- Optimize kernel of Multi Query Attention (MQA)"
       - "- Design FPGA accelerator optimized for MQA"
-      - "- Conduct the sanity test of optimized kernel and FPGA accelerator."
-      - "- Analyze performance of optimized kernel and FPGA accelerator."
     technologies_used: | 
       CUDA with NVIDIA RTX TITAN x2 (Turing), Verilog
   
   - role: Invited Project Builder of LLM Acceleration
     time: 2024.03 - Present
-    company: Backdrop Build
+    company: Backdrop Build V3
     details:
       - Analyze the possibility of accelerating Gemma 2B (sLLM of Google DeepMind)
     technologies_used: | 
-      Python, C/C++ with NVIDIA RTX 4000 Ada (Ada Lovelace)
+      Python, C/C++ with NVIDIA RTX 4000 Ada (Ada Lovelace) of RunPod Cloud
 
   - role: SNU Convergence Research Intern
     time: 2023.12 - 2024.02
