@@ -55,7 +55,8 @@ experience:
     time: 2024.04 - Present
     company: Backdrop Build V4
     details:
-      - Writing a paper of analyzing Llama3 8B (LLM of Meta) and Gemma 2B (sLLM of Google DeepMind) with the title "Analysis of open source LLMs and their operations"
+      - "• Invited to be a project developer to explore the potential for LLM acceleration."
+      - "•	•	Analyzed the possibility of accelerating Gemma 2B (sLLM of Google DeepMind)."
     technologies_used: | 
       Python, C/C++ with NVIDIA RTX 4090 (Ada Lovelace) of RunPod Cloud
 
@@ -63,7 +64,7 @@ experience:
     time: 2024.03 - Present
     company: DATES Lab in Yonsei University (prof. JoonSung Yang)
     details:
-      - "•	Authored and published a research paper titled "Direction of LLMs improvement based on their operation development" on Arxiv, providing insights into strategies for accelerating LLM performance."
+      - "•	Authored and published a research paper titled \"Direction of LLMs improvement based on their operation development\" on Arxiv, providing insights into strategies for accelerating LLM performance."
       - "•	Facilitated knowledge sharing by creating two GitHub repositories to disclose the code and data used in the paper."
       - "•	Spearheaded a research team of 3 undergraduates, defining objectives and developing research plans."
     technologies_used: | 
