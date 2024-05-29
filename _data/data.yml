@@ -51,51 +51,42 @@ profile: |
 
 # Experience
 experience:
-  - role: Invited Project Builder of LLM Acceleration
-    time: 2024.04 - Present
-    company: Backdrop Build V4
-    details:
-      - "• Invited to be a project developer to explore the potential for LLM acceleration."
-      - "•	•	Analyzed the possibility of accelerating Gemma 2B (sLLM of Google DeepMind)."
-    technologies_used: | 
-      Python, C/C++ with NVIDIA RTX 4090 (Ada Lovelace) of RunPod Cloud
-
   - role: Lead of Undergraduate Research Team
     time: 2024.03 - Present
-    company: DATES Lab in Yonsei University (prof. JoonSung Yang)
+    company: DATES Lab in Yonsei University (Prof. Joon-Sung Yang)
     details:
-      - "•	Authored and published a research paper titled \"Direction of LLMs improvement based on their operation development\" on Arxiv, providing insights into strategies for accelerating LLM performance."
-      - "•	Facilitated knowledge sharing by creating two GitHub repositories to disclose the code and data used in the paper."
-      - "•	Spearheaded a research team of 3 undergraduates, defining objectives and developing research plans."
+      - "- Authored and published a research paper titled \"Direction of LLMs improvement based on their operation development\" on Arxiv, providing insights into strategies for accelerating LLM performance."
+      - "- Facilitated knowledge sharing by creating two GitHub repositories to disclose the code and data used in the paper."
+      - "- Spearheaded a research team of 3 undergraduates, defining objectives and developing research plans."
     technologies_used: | 
-      CUDA with NVIDIA RTX TITAN x2 (Turing), Verilog
+      Python, C/C++ with NVIDIA RTX 5000 Ada (Ada Lovelace) supported from RunPod Cloud
   
   - role: Invited Project Builder of LLM Acceleration
-    time: 2024.02 - 2024.03
-    company: Backdrop Build
+    time: 2024.02 - Present
+    company: Backdrop Build Lab V3 and V4
     details:
-      - Analyze the possibility of accelerating Gemma 2B (sLLM of Google DeepMind)
+      - "- Invited to be a project developer to explore the potential for LLM acceleration."
+      - "- Analyzed kernel performance between Llama and Gemma with RTX 6000 Ada provided by Runpod."
     technologies_used: | 
-      Python, C/C++ with NVIDIA RTX 4000 Ada (Ada Lovelace) of RunPod Cloud
+      Python, C/C++ with NVIDIA RTX 5000 Ada (Ada Lovelace) supported from RunPod Cloud
 
   - role: SNU Convergence Research Intern
     time: 2023.12 - 2024.02
-    company: SCALE in Seoul National University (prof. JungHo Ahn)
+    company: SCALE Lab in Seoul National University (Prof. Jung-Ho Ahn)
     details:
       - Acceleration of Llama2 7B (LLM of Meta). 
-      - "- Analyzed the performance improvement of Llama2 7B on TensorRT-LLM."
+      - "- Investigated the architecture and performance of OPT and Llama (LLMs of META) on TensorRT-LLM (NVIDIA)."
       - "- Established research objectives on significant and feasible kernel optimization."
-      - "- Replaced Multi Head Attention (MHA) of Llama2 7B with Group Query Attention (GQA)."
-      - "- Analyzed the performance of GQA kernel in contrast to the MHA kernel."
+      - "- Achieved 40% performance improvement by applying GQA on Llama2 7B compared to the MHA baseline."
     technologies_used: | 
       Python, PyTorch, C/C++ with NVIDIA TITAN V (Volta)
 
   - role: Undergraduate Research Intern
     time: 2023.01 - 2023.06
-    company: Circuit and System Lab in Yonsei University (prof. TaeWook Kim)
+    company: Circuit and System Lab in Yonsei University (Prof. Tae-Wook Kim)
     details:
-      - "- Analyzed Impulse Radio Ultra-WideBand (IR-UWB) transmitter and transceiver."
-      - "- Optimized the performance of multi-stage amplifier."
+      - "- Analyzed the architecture of Impulse Radio Ultra-WideBand (IR-UWB) transmitter and transceiver."
+      - "- Designed proposed pulse generator of UWB transmitter using Cadence Virtuoso."
     technologies_used: | 
       Cadence Virtuoso, PSpice
   
@@ -103,7 +94,9 @@ experience:
     time: 2020.10 - 2022.07
     company: Korea Air Force
     details: 
-      - "Honors: Outstanding member of a unit; regimental commander’s award; Office automation and information system management."
+      - "- Streamlined the management of leave and medical information for 200 soldiers through automation using VBA and Python, doubling work efficiency."
+      - "- Earned the Computer Specialist Certificate in Spreadsheet & Database Level-1 (Highest Level of KCCI)."
+      - "- Honors: Outstanding member of a unit; regimental commander’s award"
     technologies_used: | 
       VBA, Excel, Word, Python, HTML
 
