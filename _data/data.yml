@@ -59,14 +59,13 @@ experience:
     technologies_used: | 
       Python, C/C++ with NVIDIA RTX 4090 (Ada Lovelace) of RunPod Cloud
 
-  - role: Team Lead of Undergraduate Research
+  - role: Lead of Undergraduate Research Team
     time: 2024.03 - Present
     company: DATES Lab in Yonsei University (prof. JoonSung Yang)
     details:
-      - Acceleration of Gemma 2B (sLLM of Google DeepMind). 
-      - "- Established objectives of research and manage the research plan."
-      - "- Optimize kernel of Multi Query Attention (MQA)"
-      - "- Design FPGA accelerator optimized for MQA"
+      - "•	Authored and published a research paper titled "Direction of LLMs improvement based on their operation development" on Arxiv, providing insights into strategies for accelerating LLM performance."
+      - "•	Facilitated knowledge sharing by creating two GitHub repositories to disclose the code and data used in the paper."
+      - "•	Spearheaded a research team of 3 undergraduates, defining objectives and developing research plans."
     technologies_used: | 
       CUDA with NVIDIA RTX TITAN x2 (Turing), Verilog
   
