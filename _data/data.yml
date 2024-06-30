@@ -52,14 +52,22 @@ profile: |
 # Experience
 experience:
   - role: Lead of Undergraduate Research Team
-    time: 2024.03 - Present
-    company: DATES Lab in Yonsei University (Prof. Joon-Sung Yang)
+    time: 2024.06 - Present
+    company: CORE Lab in Yonsei University / Prof. Hanjun Kim
+    details:
+      - "Study LLVM"
+    technologies_used: | 
+      LLVM, Python, C/C++
+
+  - role: Lead of Undergraduate Research Team
+    time: 2024.03 - 2024.06
+    company: DATES Lab in Yonsei University / Prof. Joon-Sung Yang
     details:
       - "- Authored and published a research paper titled \"Direction of LLMs improvement based on their operation development\" on Arxiv, providing insights into strategies for accelerating LLM performance."
       - "- Facilitated knowledge sharing by creating two GitHub repositories to disclose the code and data used in the paper."
       - "- Spearheaded a research team of 3 undergraduates, defining objectives and developing research plans."
     technologies_used: | 
-      Python, C/C++ with NVIDIA RTX 5000 Ada (Ada Lovelace) supported from RunPod Cloud
+      Python, C/C++ with NVIDIA RTX 6000 Ada (Ada Lovelace) supported from RunPod Cloud
   
   - role: Invited Project Builder of LLM Acceleration
     time: 2024.02 - Present
@@ -68,11 +76,11 @@ experience:
       - "- Invited to be a project developer to explore the potential for LLM acceleration."
       - "- Analyzed kernel performance between Llama and Gemma with RTX 6000 Ada provided by Runpod."
     technologies_used: | 
-      Python, C/C++ with NVIDIA RTX 5000 Ada (Ada Lovelace) supported from RunPod Cloud
+      Python, C/C++ with NVIDIA RTX 6000 Ada (Ada Lovelace) supported from RunPod Cloud
 
   - role: SNU Convergence Research Intern
     time: 2023.12 - 2024.02
-    company: SCALE Lab in Seoul National University (Prof. Jung-Ho Ahn)
+    company: SCALE Lab in Seoul National University / Prof. Jung-Ho Ahn
     details:
       - Acceleration of Llama2 7B (LLM of Meta). 
       - "- Investigated the architecture and performance of OPT and Llama (LLMs of META) on TensorRT-LLM (NVIDIA)."
@@ -83,7 +91,7 @@ experience:
 
   - role: Undergraduate Research Intern
     time: 2023.01 - 2023.06
-    company: Circuit and System Lab in Yonsei University (Prof. Tae-Wook Kim)
+    company: Circuit and System Lab in Yonsei University / Prof. Tae-Wook Kim
     details:
       - "- Analyzed the architecture of Impulse Radio Ultra-WideBand (IR-UWB) transmitter and transceiver."
       - "- Designed proposed pulse generator of UWB transmitter using Cadence Virtuoso."
