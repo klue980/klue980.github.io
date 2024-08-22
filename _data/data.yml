@@ -45,6 +45,13 @@ skills:
       - Linux, Docker
       - Dart, Flutter
 
+# Publications
+publications:
+  - title: Direction of LLMs Improvement Based on Footsteps of Operations
+    link: "#"
+    authors: Seongho Kim, Jihyun Moon, Juntaek Oh
+    conference: Arxiv, 2024
+    
 # Profile
 profile: |
   Research Interests : Compiler Optimization for Deep Learning and Homomorphic Encryption.
@@ -137,13 +144,6 @@ scholarships:
     company: Yonsei University
     details: |
       Scolarship for the academic excellence in 2022 2nd semester (Veritas), 2023 1st semester(Semiconductor Specialist Track) and 2023 2nd semester (Veritas)
-
-# Publications
-# publications:
-#   - title: Random title of paper. An interesting one.
-#     link: "#"
-#     authors: John E. Doe
-#     conference: Some conference, 2016
 
 # Projects
 projects:
