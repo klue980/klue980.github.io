@@ -47,10 +47,10 @@ skills:
 
 # Publications
 publications:
-  - title: Direction of LLMs Improvement Based on Footsteps of Operations
+  - title: Survey and Evaluation of Converging Architecture in LLM based on Footsteps of Operations
     link: "#"
-    authors: Seongho Kim, Jihyun Moon, Juntaek Oh
-    conference: Arxiv, 2024
+    authors: Seongho Kim, Jihyun Moon, Juntaek Oh, Insu Choi and prof. Joon-Sung Yang
+    conference: Arxiv, 2024. 10.
     
 # Profile
 profile: |
@@ -147,9 +147,15 @@ scholarships:
 
 # Projects
 projects:
+  - title: Samsung Computer Engineering Challenge 2024
+    link:
+    details: |
+      2024.08 ~ 2024.10
+
   - title: SNU Lab Study
     link: ""
     details: |
+      2023.12 ~ 2024.03
       Apply GQA to Llama2-7B on TensorRT-LLM
 
   - title: Circuit and System Lab Study
