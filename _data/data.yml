@@ -67,10 +67,10 @@ experience:
       LLVM, Python, C/C++
 
   - role: Lead of Undergraduate Research Team
-    time: 2024.03 - 2024.06
+    time: 2024.03 - 2024.10
     company: DATES Lab in Yonsei University / Prof. Joon-Sung Yang
     details:
-      - "- Authored and published a research paper titled \"Direction of LLMs improvement based on their operation development\" on Arxiv, providing insights into strategies for accelerating LLM performance."
+      - "- Authored and published a research paper titled \"Survey and Evaluation of Converging Architecture in LLM based on Footsteps of Operations\" on Arxiv, providing insights into strategies for accelerating LLM performance."
       - "- Facilitated knowledge sharing by creating two GitHub repositories to disclose the code and data used in the paper."
       - "- Spearheaded a research team of 3 undergraduates, defining objectives and developing research plans."
     technologies_used: | 
