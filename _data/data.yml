@@ -63,7 +63,6 @@ experience:
     company: CORE Lab in Yonsei University / Prof. Hanjun Kim
     details:
       - "Study LLVM"
-      # - "Samsung Computer Engineering Challenge 2024"
     technologies_used: | 
       LLVM, Python, C/C++
 
