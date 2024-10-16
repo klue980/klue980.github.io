@@ -48,8 +48,8 @@ skills:
 # Publications
 publications:
   - title: Survey and Evaluation of Converging Architecture in LLM based on Footsteps of Operations
-    link: "#"
-    authors: Seongho Kim, Jihyun Moon, Juntaek Oh, Insu Choi and prof. Joon-Sung Yang
+    link: "https://arxiv.org/abs/2410.11381"
+    authors: Seongho Kim, Jihyun Moon, Juntaek Oh, Insu Choi, and Joon-Sung Yang
     conference: Arxiv, 2024. 10.
     
 # Profile
@@ -63,6 +63,7 @@ experience:
     company: CORE Lab in Yonsei University / Prof. Hanjun Kim
     details:
       - "Study LLVM"
+      # - "Samsung Computer Engineering Challenge 2024"
     technologies_used: | 
       LLVM, Python, C/C++
 
@@ -70,9 +71,8 @@ experience:
     time: 2024.03 - 2024.10
     company: DATES Lab in Yonsei University / Prof. Joon-Sung Yang
     details:
-      - "- Authored and published a research paper titled \"Survey and Evaluation of Converging Architecture in LLM based on Footsteps of Operations\" on Arxiv, providing insights into strategies for accelerating LLM performance."
-      - "- Facilitated knowledge sharing by creating two GitHub repositories to disclose the code and data used in the paper."
-      - "- Spearheaded a research team of 3 undergraduates, defining objectives and developing research plans."
+      - "- Authored and published a research paper titled \"Survey and Evaluation of Converging Architecture in LLM based on Footsteps of Operations\", providing insights into strategies for accelerating LLM performance."
+      - "- Spearheaded a research team of 3 undergraduates and a graduate, defining objectives and developing research plans."
     technologies_used: | 
       Python, C/C++ with NVIDIA RTX 6000 Ada (Ada Lovelace) supported from RunPod Cloud
   
@@ -147,10 +147,10 @@ scholarships:
 
 # Projects
 projects:
-  - title: Samsung Computer Engineering Challenge 2024
-    link:
-    details: |
-      2024.08 ~ 2024.10
+  # - title: Samsung Computer Engineering Challenge 2024
+  #   link:
+  #   details: |
+  #     2024.08 ~ 2024.10
 
   - title: SNU Lab Study
     link: ""
